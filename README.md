@@ -3,7 +3,8 @@ The program was made specificaly for windows 10! It may not work on other versio
 
 -- .exe users --
 
-This project has and .exe file in dist folder, it was not tested on other computers, but it should work. 
+This project has and .exe file in dist folder, it was not tested on other computers, but it should work.
+I can not add the .exe file to my reposetory, as well as some essential folders, so I advise to download all files form outlook.
 
 -- vsc users --
 
