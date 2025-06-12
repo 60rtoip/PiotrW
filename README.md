@@ -25,19 +25,25 @@ python main.py
 -- about the program --
 
 This is a program that I myself will be using from now on, and will be upgrading it in the future for sure. It has some quality features that i really needed, and could not find a good program with all of them. It has 4 features for now:
+
+
 -VolumeMixer
     It was very tidious for me to go to Windows VolumeMixer every time there was a too Loud 
     program running.
+    
 -AppLauncher
     I really do not like the Windows File system, it just doesnt look very well, and i hate to have
     my desktop full with apps, i prefer there to be as little as possible.
+    
 -MusicPlayer
     This music player has a feature to run music in random order, and while there are programs 
     that do that, this one does not require internet to run, and with that, i have everything in
     one place.
+    
 -Saper
     This is particularly close to my heart, because i can not count how many times have i wanted
     to play saper on my computer when internet was gone. I often play saper on browser, but now i will not need to ever again.
+
 
 It is still in early stages, i will probably be making a lot of adjustments to it. It was
 a really hard project for me, because of how Windows makes it hard, and the fact that it is 
