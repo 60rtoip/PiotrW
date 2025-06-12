@@ -16,11 +16,11 @@ pip install pygame
 pip install pillow
 pip install pycaw
 
----
-
 After that, you can run the main.py file, with a command or just using vsc features.
 Command:
 python main.py
+
+---
 
 -- about the program --
 This is a program that I myself will be using from now on, and will be upgrading it in the future for sure. It has some quality features that i really needed, and could not find a good program with all of them. It has 4 features for now:
