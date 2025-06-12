@@ -12,8 +12,11 @@ If you prefer running this app with visual studio code, this is what you should 
 (a)make sure you have installed python, with PATH [you add it while in python installer]
 
 (b)commands:
+
 pip install pygame
+
 pip install pillow
+
 pip install pycaw
 
 After that, you can run the main.py file, with a command or just using vsc features.
