@@ -57,7 +57,9 @@ works in .exe file. With that i can run it in autorun on Windows, and always hav
 needed. I can hide the main window with a small arrow button so that it does not disturb in 
 whatever i am doing, and is always on top of any other apps.
 
+
 And that is my program.
+
 Best regards,
 Piotr Widórek, 3P
 
